@@ -122,4 +122,6 @@ resemble.outputSettings({
 
 ## 5. Link al repositorio de su aplicación de automatización.
 
-https://github.com/japereza/taller06-VRT-ultimafase/blob/master/
+Aqui esta el script de automatización de todo el proceso:
+
+https://github.com/japereza/taller06-VRT-ultimafase/blob/master/index.js
